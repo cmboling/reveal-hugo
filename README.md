@@ -4,6 +4,7 @@
 [![Website up/down badge](https://img.shields.io/website-up-down-green-red/https/reveal-hugo.dzello.com.svg)](https://reveal-hugo.dzello.com/)
 ![Last commit badge](https://img.shields.io/github/last-commit/dzello/reveal-hugo.svg)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/70c5c7a6-5fb2-40a9-98e1-20aa21336201/deploy-status)](https://app.netlify.com/sites/reveal-hugo/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcmboling%2Freveal-hugo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcmboling%2Freveal-hugo?ref=badge_shield)
 
 A Hugo theme for [Reveal.js](https://revealjs.com/) that makes authoring and customization a breeze. With it, you can turn any properly-formatted Hugo content into a HTML presentation.
 
@@ -587,3 +588,7 @@ Have you built something with reveal-hugo? Add a link to it here.
 ## Contributing
 
 Contributions are very welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcmboling%2Freveal-hugo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcmboling%2Freveal-hugo?ref=badge_large)
