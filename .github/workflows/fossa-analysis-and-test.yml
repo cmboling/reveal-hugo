@@ -38,6 +38,7 @@ jobs:
         run: |
           git branch
           echo "branch checking" 
+          echo $GITHUB_BASE_REF
 
       - uses: fossas/fossa-action@main 
         if: always()
